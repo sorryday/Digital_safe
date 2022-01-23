@@ -8,16 +8,16 @@
 Raspberry Pi 4에 C와 4x4 Keypad, SG90, HC-SR04를 연결하여 스마트 금고 제작
 
 ## 1. 수행 내용 
-###  ○ Raspberry Pi 4, 서보모터(SG90), 점퍼케이블, 초음파 센서(HC-SR04), 금고 준비
+####  ○ Raspberry Pi 4, 서보모터(SG90), 점퍼케이블, 초음파 센서(HC-SR04), 금고 준비
 
-###  ○ Autodesk Fusion 360 프로그램을 이용하여 금고 디자인
+####  ○ Autodesk Fusion 360 프로그램을 이용하여 금고 디자인
 
-###  ○ Prusa3D i3 MK3S 3D Printer를 이용하여 금고 출력
+####  ○ Prusa3D i3 MK3S 3D Printer를 이용하여 금고 출력
 
-###   ○ Raspberry Pi 4로 문을 여닫을 수 있는 물체에 금고 역할 부여
-###     - 서보모터로 문의 개방과 폐쇄 실행
-###     - 초음파 센서로 문의 닫힘 여부 판별
-###     -  Keypad로 비밀번호 입력
+####   ○ Raspberry Pi 4로 문을 여닫을 수 있는 물체에 금고 역할 부여
+####     - 서보모터로 문의 개방과 폐쇄 실행
+####     - 초음파 센서로 문의 닫힘 여부 판별
+####     -  Keypad로 비밀번호 입력
 
 
 ## 2. Flowchart
