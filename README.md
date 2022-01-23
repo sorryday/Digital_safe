@@ -1,15 +1,3 @@
-# digital_safe
-
-1. 사용한 부품 
-   - 라즈베리파이 4 8GB
-   - 4x4 Keypad
-   - SG90
-   - HC-SR04
-
-2. 사용한 Tool
-   - Vi Editor
-   - Autodesk fusion 360
-
 # Digital_safe 	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 # Raspberry Pi 4 및 부품들을 이용한 스마트 금고 
 
@@ -56,6 +44,8 @@ Raspberry Pi 4에 C와 4x4 Keypad, SG90, HC-SR04를 연결하여 스마트 금�
 ## Environment
 
 > C (Raspberry Pi OS)
+> 
+> Autodesk fusion 360
 > 
 > Raspberry Pi 4
 > 
